@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<AT_AlmostThereHours_Title>"Почти дошли" в часах</AT_AlmostThereHours_Title>
+	<AT_AlmostThereHours_Description>Устанавливает удаление в часах от точки назначения при которой сработает функция "Почти дошли".</AT_AlmostThereHours_Description>
+	<AT_Command_DontRest_Label>Без отдыха!</AT_Command_DontRest_Label>
+	<AT_Command_DontRest_Description>Включение этого параметра предотвратит остановку каравана на отдых. Используйте на свой страх и риск!</AT_Command_DontRest_Description>
+	<AT_Command_AlmostThere_Label>Почти дошли!</AT_Command_AlmostThere_Label>
+	<AT_Command_AlmostThere_Description>Да ладно, ребята, мы почти дошли! Если этот параметр включен, ваш караван не будет отдыхать если он в {0} часах от цели или ближе. ПРИМЕЧАНИЕ: количество часов, которые считаются «почти дошли», можно указать в настройках мода!</AT_Command_AlmostThere_Description>
+  <AT_Command_ForceRest_Title>Всем спать!</AT_Command_ForceRest_Title>
+	<AT_Command_ForceRest_Description>Включение этого параметра заставит пешек в вашем караване спать. Обратите внимание, на отличие от ванильной функции отдыха для караванов, где ваши пешки только собирают ягоды и делают другие вещи вместо настоящего отдыха.</AT_Command_ForceRest_Description>
+</LanguageData>
